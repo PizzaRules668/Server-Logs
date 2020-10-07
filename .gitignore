@@ -5,6 +5,7 @@
 /smp_the_end
 /world
 /world_nether
+/world_end
 banned-ips.json
 banned-players.js
 bukkit.yml
