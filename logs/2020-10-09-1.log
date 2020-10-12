@@ -1,0 +1,101 @@
+[13:29:19] [User Authenticator #1/INFO]: UUID of player NasuNanu is 18f3b824-f0ba-4218-9bf9-d3349f02ebe8
+[13:29:20] [Server thread/INFO]: NasuNanu[/24.159.240.44:40322] logged in with entity id 1094 at ([smp]-1037.467517036607, 74.0, 236.97247341441937)
+[13:29:40] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CRIMSON_FUNGUS
+[13:29:40] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.WARPED_FUNGUS
+[13:32:34] [User Authenticator #2/INFO]: UUID of player Benedict_AGM is 92dd6768-0113-4c88-871d-042e64be901e
+[13:32:34] [Server thread/INFO]: Benedict_AGM[/173.87.229.218:51095] logged in with entity id 1719 at ([smp]-1756.785610896726, 76.5625, 263.91951169243595)
+[13:34:04] [Server thread/INFO]: Benedict_AGM issued server command: /effect clear NasuNanu
+[13:35:37] [Server thread/INFO]: Benedict_AGM issued server command: /enchant Benedict_AGM minecraft:protection 4
+[13:36:56] [Server thread/INFO]: Benedict_AGM issued server command: /summon minecraft:egg ~ ~ ~
+[13:36:56] [Server thread/INFO]: [Benedict_AGM: Summoned new Thrown Egg]
+[13:37:23] [Server thread/INFO]: Benedict_AGM issued server command: /summon minecraft:llama ~ ~ ~
+[13:37:23] [Server thread/INFO]: [Benedict_AGM: Summoned new Llama]
+[13:42:44] [Server thread/INFO]: NasuNanu issued server command: /tpa Benedict_AGM
+[13:43:36] [Server thread/INFO]: Benedict_AGM issued server command: /gamemode survival
+[13:43:36] [Server thread/INFO]: [Benedict_AGM: Set own game mode to Survival Mode]
+[13:47:53] [Server thread/INFO]: Benedict_AGM issued server command: /summon minecraft:zombie -1057.43 64.00 250.30
+[13:47:53] [Server thread/INFO]: [Benedict_AGM: Summoned new Zombie]
+[13:50:20] [Server thread/INFO]: NasuNanu lost connection: Disconnected
+[13:50:20] [Server thread/INFO]: NasuNanu left the game
+[13:50:36] [Server thread/INFO]: Benedict_AGM issued server command: /gamemode creative
+[13:50:36] [Server thread/INFO]: [Benedict_AGM: Set own game mode to Creative Mode]
+[13:50:40] [User Authenticator #3/INFO]: UUID of player NasuNanu is 18f3b824-f0ba-4218-9bf9-d3349f02ebe8
+[13:50:40] [Server thread/INFO]: NasuNanu[/24.159.240.44:42984] logged in with entity id 4420 at ([smp]-1019.0576167089212, 64.0, 184.74113785417492)
+[13:53:39] [Server thread/INFO]: Benedict_AGM issued server command: /gamemode survival
+[13:53:39] [Server thread/INFO]: [Benedict_AGM: Set own game mode to Survival Mode]
+[13:58:58] [Server thread/INFO]: Benedict_AGM issued server command: /gamemode creative
+[13:58:58] [Server thread/INFO]: [Benedict_AGM: Set own game mode to Creative Mode]
+[13:59:33] [Server thread/INFO]: Benedict_AGM issued server command: /gamemode survival
+[13:59:33] [Server thread/INFO]: [Benedict_AGM: Set own game mode to Survival Mode]
+[14:03:47] [Server thread/INFO]: Benedict_AGM issued server command: /tpaccept
+[14:07:32] [Server thread/INFO]: Benedict_AGM was shot by NasuNanu using [FartGun]
+[14:07:39] [Server thread/INFO]: Benedict_AGM issued server command: /tp Benedict_AGM NasuNanu
+[14:07:39] [Server thread/INFO]: [Benedict_AGM: Teleported Benedict_AGM to NasuNanu]
+[14:07:52] [Server thread/INFO]: Benedict_AGM fell from a high place
+[14:08:00] [Server thread/INFO]: Benedict_AGM issued server command: /tp Benedict_AGM NasuNanu
+[14:08:00] [Server thread/INFO]: [Benedict_AGM: Teleported Benedict_AGM to NasuNanu]
+[14:09:00] [Server thread/INFO]: Benedict_AGM was slain by NasuNanu using [Egg Pick]
+[14:09:06] [Server thread/INFO]: Benedict_AGM issued server command: /tp Benedict_AGM NasuNanu
+[14:09:06] [Server thread/INFO]: [Benedict_AGM: Teleported Benedict_AGM to NasuNanu]
+[14:10:02] [Server thread/INFO]: Benedict_AGM was burnt to a crisp whilst fighting NasuNanu
+[14:10:09] [Server thread/INFO]: Benedict_AGM issued server command: /tp Benedict_AGM NasuNanu
+[14:10:09] [Server thread/INFO]: [Benedict_AGM: Teleported Benedict_AGM to NasuNanu]
+[14:11:41] [Server thread/INFO]: NasuNanu was burnt to a crisp whilst fighting Benedict_AGM
+[14:11:51] [Server thread/INFO]: Benedict_AGM issued server command: /gamemode creative
+[14:11:51] [Server thread/INFO]: [Benedict_AGM: Set own game mode to Creative Mode]
+[14:11:59] [Server thread/INFO]: Benedict_AGM issued server command: /tp NasuNanu Benedict_AGM
+[14:11:59] [Server thread/INFO]: [Benedict_AGM: Teleported NasuNanu to Benedict_AGM]
+[14:13:20] [Server thread/INFO]: Benedict_AGM issued server command: /gamemode survival
+[14:13:20] [Server thread/INFO]: [Benedict_AGM: Set own game mode to Survival Mode]
+[14:13:59] [Server thread/INFO]: Benedict_AGM fell from a high place
+[14:14:15] [Server thread/INFO]: Benedict_AGM issued server command: /tp Benedict_AGM NasuNanu
+[14:14:15] [Server thread/INFO]: [Benedict_AGM: Teleported Benedict_AGM to NasuNanu]
+[14:14:57] [Server thread/INFO]: Benedict_AGM was burnt to a crisp whilst fighting Benedict_AGM
+[14:15:06] [Server thread/INFO]: Benedict_AGM issued server command: /tp Benedict_AGM NasuNanu
+[14:15:06] [Server thread/INFO]: [Benedict_AGM: Teleported Benedict_AGM to NasuNanu]
+[14:15:13] [Server thread/INFO]: NasuNanu issued server command: /spi menu
+[14:18:16] [Server thread/INFO]: Benedict_AGM issued server command: /enchant NasuNanu minecraft:depth_strider 2
+[14:18:16] [Server thread/INFO]: [Benedict_AGM: Applied enchantment Depth Strider II to NasuNanu's item]
+[14:19:39] [Server thread/INFO]: Benedict_AGM issued server command: /enchant NasuNanu minecraft:depth_strider 3
+[14:20:00] [Server thread/INFO]: Benedict_AGM issued server command: /gamemode creative
+[14:20:00] [Server thread/INFO]: [Benedict_AGM: Set own game mode to Creative Mode]
+[14:21:37] [Server thread/INFO]: Benedict_AGM lost connection: Disconnected
+[14:21:37] [Server thread/INFO]: Benedict_AGM left the game
+[14:54:47] [Server thread/INFO]: NasuNanu lost connection: Disconnected
+[14:54:47] [Server thread/INFO]: NasuNanu left the game
+[20:41:19] [User Authenticator #4/INFO]: UUID of player Pizzarules668 is 60c64411-c692-4999-8706-616f488a4a7c
+[20:41:19] [Server thread/INFO]: Pizzarules668[/10.145.24.195:60381] logged in with entity id 15363 at ([smp]-1019.533246628834, 64.5, 234.57722716333828)
+[20:41:57] [Server thread/INFO]: Pizzarules668 issued server command: /gamemode survival
+[20:41:57] [Server thread/INFO]: [Pizzarules668: Set own game mode to Survival Mode]
+[20:44:02] [Server thread/INFO]: Pizzarules668 lost connection: Disconnected
+[20:44:02] [Server thread/INFO]: Pizzarules668 left the game
+[20:44:45] [Server thread/INFO]: Stopping the server
+[20:44:45] [Server thread/INFO]: Stopping server
+[20:44:45] [Server thread/INFO]: [BadlionClientModAPI] Disabling BadlionClientModAPI v1.0
+[20:44:45] [Server thread/INFO]: [SpawnerSilk] Disabling SpawnerSilk v3.3
+[20:44:45] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.0
+[20:44:45] [Server thread/INFO]: [JustTPA] Disabling JustTPA v1.0.0
+[20:44:45] [Server thread/INFO]: [JustTPA] JustTPA plugin has been disabled!
+[20:44:45] [Server thread/INFO]: [GSit] Disabling GSit v[3.2.0.0]
+[20:44:45] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m The Plugin was successfully disabled.[m
+[20:44:45] [Server thread/INFO]: [Harbor] Disabling Harbor v1.6.1
+[20:44:45] [Server thread/INFO]: [SeePlayerInventory] Disabling SeePlayerInventory v2.6
+[20:44:45] [Server thread/INFO]: [36m[SeePlayerInventory] [32mSeePlayerInventory Desabled![0m
+[20:44:45] [Server thread/INFO]: [36m[SeePlayerInventory] [32mPlugin by [33m[peti446][0m
+[20:44:45] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0-beta-04+98f71a3
+[20:44:45] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:44:45] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.86
+[20:44:45] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:44:45] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:44:45] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:44:45] [Server thread/INFO]: Saving players
+[20:44:46] [Server thread/INFO]: Saving worlds
+[20:44:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[smp]'/minecraft:overworld
+[20:44:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (smp): All chunks are saved
+[20:44:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[smp_nether]'/minecraft:the_nether
+[20:44:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:44:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[smp_the_end]'/minecraft:the_end
+[20:44:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:44:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (smp): All chunks are saved
+[20:44:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:44:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

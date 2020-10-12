@@ -1,0 +1,14 @@
+[07:36:44] [Server thread/INFO]: Gamerule keepInventory is now set to: false
+[19:00:15] [User Authenticator #2/INFO]: UUID of player Benedict_AGM is 92dd6768-0113-4c88-871d-042e64be901e
+[19:00:15] [Server thread/INFO]: Benedict_AGM[/173.87.229.218:56658] logged in with entity id 11054 at ([smp]-1645.7112379659795, 71.0, 264.43465136361533)
+[19:48:00] [Server thread/INFO]: Villager EntityVillager['Villager'/11190, l='ServerLevel[smp]', x=-1761.00, y=71.00, z=290.55] died, message: 'Villager was slain by Zombie'
+[19:56:36] [Server thread/INFO]: Villager EntityVillager['Farmer'/16154, l='ServerLevel[smp]', x=-1757.69, y=86.00, z=216.26] died, message: 'Farmer was slain by Zombie'
+[19:57:06] [Server thread/INFO]: Villager EntityVillager['Villager'/16095, l='ServerLevel[smp]', x=-1770.65, y=86.94, z=213.90] died, message: 'Villager was slain by Zombie'
+[19:57:53] [Server thread/INFO]: Villager EntityVillager['Villager'/16094, l='ServerLevel[smp]', x=-1774.41, y=84.50, z=205.08] died, message: 'Villager was slain by Zombie'
+[20:01:16] [Server thread/INFO]: Villager EntityVillager['Villager'/16129, l='ServerLevel[smp]', x=-1780.00, y=81.00, z=256.31] died, message: 'Villager was slain by Zombie'
+[20:03:22] [Server thread/INFO]: Villager EntityVillager['Farmer'/16158, l='ServerLevel[smp]', x=-1771.22, y=81.00, z=256.38] died, message: 'Farmer was slain by Zombie'
+[20:03:50] [Server thread/INFO]: Villager EntityVillager['Farmer'/16146, l='ServerLevel[smp]', x=-1764.09, y=86.00, z=227.86] died, message: 'Farmer was slain by Zombie Villager'
+[20:04:00] [Server thread/INFO]: Villager EntityVillager['Villager'/16116, l='ServerLevel[smp]', x=-1760.70, y=86.00, z=224.79] died, message: 'Villager was slain by Zombie'
+[20:04:07] [Server thread/INFO]: Villager EntityVillager['Villager'/16114, l='ServerLevel[smp]', x=-1810.30, y=72.00, z=240.30] died, message: 'Villager was slain by Zombie'
+[20:44:07] [Server thread/INFO]: Benedict_AGM lost connection: Disconnected
+[20:44:07] [Server thread/INFO]: Benedict_AGM left the game
