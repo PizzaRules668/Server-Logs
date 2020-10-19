@@ -1,29 +1,29 @@
-[10:12:11] [Server thread/INFO]: Stopping the server
-[10:12:11] [Server thread/INFO]: Stopping server
-[10:12:11] [Server thread/INFO]: [BadlionClientModAPI] Disabling BadlionClientModAPI v1.0
-[10:12:11] [Server thread/INFO]: [SpawnerSilk] Disabling SpawnerSilk v3.3
-[10:12:11] [Server thread/INFO]: [JustTPA] Disabling JustTPA v1.0.0
-[10:12:11] [Server thread/INFO]: [JustTPA] JustTPA plugin has been disabled!
-[10:12:11] [Server thread/INFO]: [GSit] Disabling GSit v[3.2.0.0]
-[10:12:11] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m The Plugin was successfully disabled.[m
-[10:12:11] [Server thread/INFO]: [Harbor] Disabling Harbor v1.6.1
-[10:12:11] [Server thread/INFO]: [SeePlayerInventory] Disabling SeePlayerInventory v2.6
-[10:12:11] [Server thread/INFO]: [36m[SeePlayerInventory] [32mSeePlayerInventory Desabled![0m
-[10:12:11] [Server thread/INFO]: [36m[SeePlayerInventory] [32mPlugin by [33m[peti446][0m
-[10:12:11] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0-beta-04+98f71a3
-[10:12:11] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[10:12:11] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.86
-[10:12:11] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[10:12:11] [Server thread/INFO]: [LuckPerms] Closing storage...
-[10:12:12] [Server thread/INFO]: [LuckPerms] Goodbye!
-[10:12:12] [Server thread/INFO]: Saving players
-[10:12:12] [Server thread/INFO]: Saving worlds
-[10:12:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[smp]'/minecraft:overworld
-[10:12:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (smp): All chunks are saved
-[10:12:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[smp_nether]'/minecraft:the_nether
-[10:12:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:12:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[smp_the_end]'/minecraft:the_end
-[10:12:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:12:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (smp): All chunks are saved
-[10:12:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:12:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:56:28] [Server thread/INFO]: Stopping the server
+[09:56:28] [Server thread/INFO]: Stopping server
+[09:56:28] [Server thread/INFO]: [BadlionClientModAPI] Disabling BadlionClientModAPI v1.0
+[09:56:28] [Server thread/INFO]: [SpawnerSilk] Disabling SpawnerSilk v3.3
+[09:56:28] [Server thread/INFO]: [JustTPA] Disabling JustTPA v1.0.0
+[09:56:28] [Server thread/INFO]: [JustTPA] JustTPA plugin has been disabled!
+[09:56:28] [Server thread/INFO]: [GSit] Disabling GSit v[3.2.0.0]
+[09:56:28] [Server thread/INFO]: [0;37;22m[[0;33;22mGSit[0;37;22m][0;32;1m The Plugin was successfully disabled.[m
+[09:56:28] [Server thread/INFO]: [Harbor] Disabling Harbor v1.6.1
+[09:56:28] [Server thread/INFO]: [SeePlayerInventory] Disabling SeePlayerInventory v2.6
+[09:56:28] [Server thread/INFO]: [36m[SeePlayerInventory] [32mSeePlayerInventory Desabled![0m
+[09:56:28] [Server thread/INFO]: [36m[SeePlayerInventory] [32mPlugin by [33m[peti446][0m
+[09:56:28] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.0-beta-04+98f71a3
+[09:56:28] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[09:56:28] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.1.86
+[09:56:28] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[09:56:28] [Server thread/INFO]: [LuckPerms] Closing storage...
+[09:56:28] [Server thread/INFO]: [LuckPerms] Goodbye!
+[09:56:28] [Server thread/INFO]: Saving players
+[09:56:28] [Server thread/INFO]: Saving worlds
+[09:56:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[smp]'/minecraft:overworld
+[09:56:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (smp): All chunks are saved
+[09:56:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[smp_nether]'/minecraft:the_nether
+[09:56:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:56:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[smp_the_end]'/minecraft:the_end
+[09:56:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:56:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (smp): All chunks are saved
+[09:56:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:56:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
